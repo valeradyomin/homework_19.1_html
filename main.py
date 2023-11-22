@@ -7,6 +7,7 @@ from utils.load_content import open_gist_file
 hostName = "localhost"  # Адрес для доступа по сети
 serverPort = 8080  # Порт для доступа по сети
 
+# URL-адрес файла на GitHub Gist
 gist_url = ("https://gist.githubusercontent.com/valeradyomin/0c586163230d7382d1360f78700612fc/raw"
             "/cd28428ed26be9f3b194c884fd5c5a45fafabfce/index.html")
 
